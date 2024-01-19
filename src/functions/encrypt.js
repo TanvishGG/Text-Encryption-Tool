@@ -70,7 +70,7 @@ const key64 = encodeToBase64(key)
 const final = reverseString(encodeToBase64(preText))
 return {
   text:final,
-  password: reverseString(key64)
+  key: reverseString(key64)
 }
 };
 

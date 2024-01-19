@@ -10,33 +10,9 @@ An Open-source strong Text Encryption Tool
 - This Project is available as npm package at [text-encryption-tool](https://npmjs.com/package/text-encryption-tool)
 ---
 
-## Usage
+## Documentation
+- https://text-encryption-tool.js.org
 
-1. Encryption
-```js
-const tes = require('text-encryption-tool');
-
-console.log(tes.encrypt("This is a string"))
-```
-- output 
-   ```js
-   {
-    text: "encrypted text",
-    password: "password of the text"
-   }
-   ```
-2. Decryption
-```js
-const tes = require('text-encryption-tool');
-console.log(tes.decrypt('Encrypted Text','password'))
-```
-- output
-  ```js
-  { 
-    text: "decrypted text"
-  }
-  ```
-
----
-
+## Discord
+- https://discord.com/invite/xS8b8jQZZK
 ### Made with ❤️ by [TanvishGG](https://github.com/TanvishGG)
