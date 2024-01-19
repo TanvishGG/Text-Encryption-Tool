@@ -20,7 +20,6 @@ npm install text-encryption-tool@latest
 1. [Encryption](./encrypt)
 2. [Decryption](./decrypt)
 
-## Discord
-- https://discord.com/invite/xS8b8jQZZK
+## [Discord](https://discord.com/invite/xS8b8jQZZK)
 
 ### Made with ❤️ by [TanvishGG](https://github.com/TanvishGG)
