@@ -2,12 +2,12 @@
 
 ## Importing
 ```js
-const {Encrypt} = require('text-encryption-tool')
+const {encrypt} = require('text-encryption-tool')
 ```
 ## Encrypting
 ```js
 const text = `Hello!, This is a npm package!`; // Text to Encrypt.
-const output = Encrypt(text); // Encrypting the Text.
+const output = encrypt(text); // Encrypting the Text.
 console.log(output); //logging the encrypted Text.
 ```
 #### Example Output
